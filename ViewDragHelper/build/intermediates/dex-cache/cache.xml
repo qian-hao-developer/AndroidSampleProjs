@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nekonosukiyaki/.android/build-cache/343c4a006c1971d198022792cb67cc061a87321d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69db0af257ffd1e8480d00d48f6cbfb2227c1e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="472b6fea305d0161f4fbdef81fc7ecb0d51e3853">
+        <dex dex="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b43dbb308b3e0976b04f5bb8932379acea6bf82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nekonosukiyaki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_b6d7d8ea914323af1418037f212b28574f403f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nekonosukiyaki/.android/build-cache/3169b5e9833c3ecc7a1d1cda7ff750553cc465b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b15d6cd562870ea4b5d0a8f68487074717d7520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nekonosukiyaki/.android/build-cache/761a9c8ec8a27f1064a2483f5274b2546536a7ba/output/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_a55f646d5413a6aa0e522e0942823028a2f5d472/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nekonosukiyaki/.android/build-cache/761a9c8ec8a27f1064a2483f5274b2546536a7ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c77f806e3a617f3094dbd34535ae37828260f7c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nekonosukiyaki/.android/build-cache/17430bbf12ca6f6976a02a90ed3df10bdc92060a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a13be6133c67920a8302b7e6d19ec0bedbd55a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/nekonosukiyaki/Mr.Developer/Projects/Android/SampleProjs/ViewDragHelperSampleProj/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b2a77cea787f56541528d62b23502924fb0f4976/classes.dex" />
+    </item>
+
+</items>
